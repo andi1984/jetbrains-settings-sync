@@ -1,11 +1,11 @@
-<scheme name="_@user_Atom One Light" version="142" parent_scheme="Default">
+<scheme name="Atom One Light Andi" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-02-21T09:24:46</property>
+    <property name="created">2019-02-26T15:41:54</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2018.3.4.0.0</property>
+    <property name="ideVersion">2019.1.0.0</property>
     <property name="modified">2019-02-26T15:43:18</property>
-    <property name="originalScheme">Atom One Light</property>
+    <property name="originalScheme">_@user_Atom One Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <font>
