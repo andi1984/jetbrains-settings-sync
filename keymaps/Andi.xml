@@ -16,9 +16,10 @@
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="IntroduceParameter" />
   <action id="ParameterInfo" />
   <action id="ReformatWithPrettierAction">
-    <keyboard-shortcut first-keystroke="alt l" />
+    <keyboard-shortcut first-keystroke="meta alt p" />
   </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta p" />
