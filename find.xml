@@ -12,10 +12,10 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.php</mask>
-    <mask>*.jinja2</mask>
     <mask>*.sass</mask>
     <mask>*.story.js</mask>
     <mask>*.test.js</mask>
     <mask>*.js</mask>
+    <mask>*.jinja2</mask>
   </component>
 </application>
