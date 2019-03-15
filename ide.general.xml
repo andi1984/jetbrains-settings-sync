@@ -6,5 +6,6 @@
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="ide.tooltip.initialDelay" value="293" />
+    <entry key="jest.test.tree.use.jasmine.reporter" value="false" />
   </component>
 </application>
