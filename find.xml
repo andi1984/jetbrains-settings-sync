@@ -18,5 +18,6 @@
     <mask>*.jinja2</mask>
     <mask>*.js</mask>
     <mask>*.sass</mask>
+    <mask>*.rst</mask>
   </component>
 </application>
