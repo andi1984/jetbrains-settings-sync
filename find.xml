@@ -16,8 +16,8 @@
     <mask>*.py</mask>
     <mask>*.story.js</mask>
     <mask>*.jinja2</mask>
-    <mask>*.js</mask>
     <mask>*.sass</mask>
     <mask>*.rst</mask>
+    <mask>*.js</mask>
   </component>
 </application>
