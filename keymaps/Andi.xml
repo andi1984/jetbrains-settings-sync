@@ -1,5 +1,4 @@
 <keymap version="1" name="Andi" parent="Mac OS X">
-  <action id="AddToFavoritesPopup" />
   <action id="ChangesView.GroupBy.Directory" />
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="shift meta f4" />
@@ -14,22 +13,12 @@
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
   <action id="FileChooser.TogglePathShowing" />
-  <action id="FindInPath">
-    <keyboard-shortcut first-keystroke="shift alt f" />
-  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
-  <action id="IntroduceParameter" />
   <action id="ParameterInfo" />
   <action id="ReformatWithPrettierAction">
-    <keyboard-shortcut first-keystroke="meta alt p" />
-  </action>
-  <action id="ReplaceInPath">
-    <keyboard-shortcut first-keystroke="shift alt r" />
-  </action>
-  <action id="RerunTests">
-    <keyboard-shortcut first-keystroke="ctrl meta r" />
+    <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta p" />

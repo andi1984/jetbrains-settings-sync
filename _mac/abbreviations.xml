@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="ReformatWithPrettierAction">
+        <abbreviation name="pretty" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
