@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="jinja" />
-    <option name="defaultScopeName" value="jinja" />
-    <option name="SEARCH_SCOPE" value="jinja" />
+    <option name="customScope" value="frontend" />
+    <option name="defaultScopeName" value="frontend" />
+    <option name="SEARCH_SCOPE" value="frontend" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
