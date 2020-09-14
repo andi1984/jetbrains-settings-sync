@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="frontend" />
-    <option name="defaultScopeName" value="frontend" />
-    <option name="SEARCH_SCOPE" value="frontend" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -13,11 +14,11 @@
     <mask>*.mxml</mask>
     <mask>*.php</mask>
     <mask>*.test.js</mask>
-    <mask>*.py</mask>
     <mask>*.story.js</mask>
     <mask>*.sass</mask>
     <mask>*.rst</mask>
     <mask>*.jinja2</mask>
     <mask>*.js</mask>
+    <mask>*.py</mask>
   </component>
 </application>
